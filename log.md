@@ -10,7 +10,7 @@
 
  ### Day 1: February 11, 2022 
 
-**Today's Progress**: Narrowed Sequelize issue down to service address, still researching a workaround or solution. Took a break then came back and read up on micro-frontends and how they work with react applications.
+**Today's Progress**: Narrowed Sequelize issue down to service address, still researching a workaround or solution. Took a break then came back and read up on micro-frontends and how they work with react applications. Also looked into splitting up the frontend and backend into separate containers, but will most likely look more into that when I get closer to utilizing that.
 
 **Thoughts**: I'm mainly getting back into the swing of things, reading up on new technologies and practicing gets my mental state back on the right track.
 
