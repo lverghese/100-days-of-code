@@ -8,16 +8,14 @@
 
 **Link to work:** https://fitness-buddy-2.herokuapp.com/
 
- <!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+ ### Day 1: February 11, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Narrowed Sequelize issue down to service address, still researching a workaround or solution. Took a break then came back and read up on micro-frontends and how they work with react applications.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I'm mainly getting back into the swing of things, reading up on new technologies and practicing gets my mental state back on the right track.
 
 
+<!--
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
