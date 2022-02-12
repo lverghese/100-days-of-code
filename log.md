@@ -4,7 +4,7 @@
 
 **Today's Progress**: Worked on relaunching Fitness Buddy in Docker, having trouble with Sequelize errors when running the image.
 
-**Thoughts:** Struggling to understand new technologies but working through it and learning as I go.
+**Thoughts:** Struggling to understand new technologies but working through it and learning as I go. Still getting back into the routine after taking a small break.
 
 **Link to work:** https://fitness-buddy-2.herokuapp.com/
 
