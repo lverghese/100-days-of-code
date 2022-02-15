@@ -15,15 +15,13 @@
 **Thoughts**: I'm mainly getting back into the swing of things, reading up on new technologies and practicing gets my mental state back on the right track.
 
 
-<!--
-### Day 1: June 27, Monday
+### Day 2: February 14, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: This day was spent trying to get through that sequelize error but after 6 hours I couldn't find a solution to my ECONNtimeout error. Incredibly frustrating but might circle back around. I decided I was going to dockerize a MERN stack app that I created previously.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** It is not like me to start something else before finishing another but MERN is something I will be using in the future and it would be a good idea to practice on that instead.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+https://news-distillery.herokuapp.com/
 
--->
+
