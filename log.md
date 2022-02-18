@@ -24,4 +24,23 @@
 **Link(s) to work**
 https://news-distillery.herokuapp.com/
 
+### Day 2: February 16, Wednesday
+
+**Today's Progress**: Dockerized my app and had the front end consume the backend. Used my previous MERN stack creation to do this and it proved much easier than using my previous app made with Sequelize. 
+**Thoughts** Very rewarding to see it come together with some studying and applying.
+
+**Link(s) to work**
+https://news-distillery.herokuapp.com/
+
+### Day 2: February 17, Thursday
+
+**Today's Progress**: This day was spent storing my docker image in ECS on AWS. Relatively simple but interesting concept to learn about why this is done.
+
+**Thoughts** Not as mentally taxing as dockerizing the application for sure.
+
+**Link(s) to work**
+https://news-distillery.herokuapp.com/
+
+
+
 
